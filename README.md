@@ -13,6 +13,8 @@ This project sets up a workflow for handling SSH brute force activities on an *A
 5. Send details via email to the user asking to block the source IP.
 6. Create an alert in TheHive.
 7. Automatically block the IP if the user confirms using the active-response/firewall-drop0 command.
+<img width="599" alt="image" src="https://github.com/user-attachments/assets/d6783063-e53d-499c-8e1b-0d385308b501">
+
 
 ## Prerequisites
 1. Ubuntu Server (minimum specifications: 1GB RAM, 25GB HDD) 
