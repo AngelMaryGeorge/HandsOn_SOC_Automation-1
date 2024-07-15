@@ -1,5 +1,5 @@
 # HandsOn_SOC_Automation1
-Hands on SOC automation project using wazuh, thehive, shuffle, and virustotal for detecting and blocking multiple SSH authentication failures by a particular IP.
+Hands on SOC automation project using wazuh, thehive, shuffle, and virustotal for detecting and blocking multiple SSH authentication failures by any IP.
 
 ## Introduction
 This project sets up a workflow for handling SSH brute force activities on an *AWS EC2 Ubuntu machine using Wazuh, Shuffle, VirusTotal, and TheHive.* The workflow includes automatic alerting, enrichment, notification, and response.
